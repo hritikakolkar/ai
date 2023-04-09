@@ -1,7 +1,7 @@
 ### Projects
-- [Bag of Words (BoW) and Count Vectorizer Implementation](./bag_of_words.py)
+- [Bag of Words (BoW) and Count Vectorizer implementation from scratch](./bag_of_words.py)
 
-- [Term Frequency and Inverse Document Frequency (tf-idf) Implementation](./tf_idf.py)
+- [Term Frequency and Inverse Document Frequency (tf-idf) implementation from scratch](./tf_idf.py)
 
 # Research Papers
 - [(word2vec) Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) | Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean
