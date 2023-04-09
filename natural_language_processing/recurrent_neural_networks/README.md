@@ -1,6 +1,6 @@
 ### Projects
 - [Unidirectional recurrent neural network architecture implementation in pytorch from scratch](./recurrent_nerual_network_architecture_from_scratch_in_pytorch.py)
-
+- [RNNs for Handwritten digit recognition](./recurrent_nerual_network_for_hand_written_digit_recognition_with_pytorch.ipynb)
 ### Research Papers
 - RNN
     - [Backpropagation through time: what it does and how to do it](https://axon.cs.byu.edu/Dan/678/papers/Recurrent/Werbos.pdf) | PJ WERBOS
@@ -21,4 +21,4 @@
 
 - Long Short Term Memory Networks
     - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-    
+
