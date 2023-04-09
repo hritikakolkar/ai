@@ -11,7 +11,7 @@
 - Hyperparameter Tuning
     - [Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846) | Max Jaderberg et al.
 - Optimizers
-    + [An overview of gradient descent optimizationalgorithms](https://arxiv.org/abs/1609.04747) | Sebastian Ruder
+    + [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747) | Sebastian Ruder
     - First Order Methods
         + [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
         + [(AdaGrad) Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](https://stanford.edu/~jduchi/projects/DuchiHaSi10_colt.pdf) | John Duchi, Elad Hazan, Yoram Singer
