@@ -28,3 +28,6 @@
 - Long Short Term Memory Networks
     - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
+- Gated Recurrent Units
+    - [Gated Recurrent Units (GRU)](https://d2l.ai/chapter_recurrent-modern/gru.html) | Dive Into Deep Learning
+    
