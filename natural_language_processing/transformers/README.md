@@ -20,6 +20,7 @@
 - Transformer (Encoder-Decoder)
     + [(T5) Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683v3) | Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu
     + [(FLAN) Fine-tuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652) | Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V. Le
+    + [Scaling Instruction-Finetuned Language Models](https://arxiv.org/pdf/2210.11416.pdf) | Yi Tay et. al
     + [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) | Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, Luke Zettlemoyer
     + [(XNLG) Cross-Lingual Natural Language Generation via Pre-Training](https://arxiv.org/abs/1909.10481) | Zewen Chi, Li Dong, Furu Wei, Wenhui Wang, Xian-Ling Mao, Heyan Huang
 - Optimizers
