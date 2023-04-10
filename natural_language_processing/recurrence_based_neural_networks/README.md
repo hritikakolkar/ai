@@ -11,8 +11,9 @@
     - [Bidirectional Recurrent Neural Network](https://ieeexplore.ieee.org/document/650093)
 
 - LSTM
-    - []
+    - [Long Short Term Memory](https://www.bioinf.jku.at/publications/older/2604.pdf) | Sepp Hochreiter, Jurgen Schmidhuber
 - GRU
+    - [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078v3.pdf) |  Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio
 - Seq2Seq
     - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
 
