@@ -1,8 +1,8 @@
 ### Projects
 - [Unidirectional recurrent neural network architecture implementation in pytorch from scratch](./recurrent_nerual_network_architecture_from_scratch_in_pytorch.py)
-- [RNN for Handwritten digit recognition](./recurrent_nerual_network_for_hand_written_digit_recognition_with_pytorch.ipynb)
-- [LSTM for Handwritten digit recogniion](./long_short-term_network_for_hand_written_digit_recognition_with_pytorch.ipynb)
 - [GRU for Handwritten digit recogniion](./gated_recurrent_networks_for_handwritten_digit_recognition_with_pytorch.ipynb)
+- [LSTM for Handwritten digit recogniion](./long_short-term_network_for_hand_written_digit_recognition_with_pytorch.ipynb)
+- [RNN for Handwritten digit recognition](./recurrent_nerual_network_for_hand_written_digit_recognition_with_pytorch.ipynb)
 
 ### Research Papers
 - RNN
@@ -11,6 +11,7 @@
     - [Bidirectional Recurrent Neural Network](https://ieeexplore.ieee.org/document/650093)
 
 - LSTM
+    - []
 - GRU
 - Seq2Seq
     - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
