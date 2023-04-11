@@ -1,5 +1,7 @@
 ### Projects
-- [Unidirectional recurrent neural network architecture implementation in pytorch from scratch](./recurrent_nerual_network_architecture_from_scratch_in_pytorch.py)
+- [Gated recurrent neural network architecture implementation in pytorch from scratch](./gated_recurrent_neural_network_architecture_from_scratch_in_pytorch.py)
+- [Long Short Term Memory network architecture implementation in pytorch from scratch](./long_short-term_memory_network_architecture_from_scratch_in_pytorch.py)
+- [Recurrent neural network architecture implementation in pytorch from scratch](./recurrent_nerual_network_architecture_from_scratch_in_pytorch.py)
 - [GRU for Handwritten digit recogniion](./gated_recurrent_networks_for_handwritten_digit_recognition_with_pytorch.ipynb)
 - [LSTM for Handwritten digit recogniion](./long_short-term_network_for_hand_written_digit_recognition_with_pytorch.ipynb)
 - [RNN for Handwritten digit recognition](./recurrent_nerual_network_for_hand_written_digit_recognition_with_pytorch.ipynb)
