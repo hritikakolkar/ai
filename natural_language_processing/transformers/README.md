@@ -36,6 +36,10 @@
     + [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446) | Jack W. Rae, Sebastian Borgeaud, Trevor Cai, Katie Millican, Jordan Hoffmann, Francis Song, John Aslanides, Sarah Henderson, Roman Ring, Susannah Young, Eliza Rutherford, Tom Hennigan, Jacob Menick, Albin Cassirer, Richard Powell, George van den Driessche, Lisa Anne Hendricks, Maribeth Rauh, Po-Sen Huang, Amelia Glaese, Johannes Welbl, Sumanth Dathathri, Saffron Huang, Jonathan Uesato, John Mellor, Irina Higgins, Antonia Creswell, Nat McAleese, Amy Wu, Erich Elsen, Siddhant Jayakumar, Elena Buchatskaya, David Budden, Esme Sutherland, Karen Simonyan, Michela Paganini, Laurent Sifre, Lena Martens, Xiang Lorraine Li, Adhiguna Kuncoro, Aida Nematzadeh, Elena Gribovskaya, Domenic Donato, Angeliki Lazaridou, Arthur Mensch, Jean-Baptiste Lespiau, Maria Tsimpoukelli, Nikolai Grigorev, Doug Fritz, Thibault Sottiaux, Mantas Pajarskas, Toby Pohlen, Zhitao Gong, Daniel Toyama, Cyprien de Masson d'Autume, Yujia Li, Tayfun Terzi, Vladimir Mikulik, Igor Babuschkin, Aidan Clark, Diego de Las Casas, Aurelia Guy, Chris Jones, James Bradbury, Matthew Johnson, Blake Hechtman, Laura Weidinger, Iason Gabriel, William Isaac, Ed Lockhart, Simon Osindero, Laura Rimell, Chris Dyer, Oriol Vinyals, Kareem Ayoub, Jeff Stanway, Lorrayne Bennett, Demis Hassabis, Koray Kavukcuoglu, Geoffrey Irving
     + [(PET) Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference](https://arxiv.org/pdf/2001.07676v3.pdf) | Timo Schick, Hinrich Schütze
 
+- Surveys
+    + [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223) | Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen
+    + [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/pdf/2003.08271.pdf) | Xipeng Qiu, Tianxiang Sun, Yige Xu, Yunfan Shao, Ning Dai & Xuanjing Huang
+
 - Optimizers
     + [LAMB]()
     + [LARS]()
@@ -51,12 +55,25 @@
 - Benchmarks
     + [Glue](https://gluebenchmark.com/leaderboard/)
     + [SuperGlue](https://super.gluebenchmark.com/)
-- Multi Task Learning
-- Surveys
-    + [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223) | Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen
-    + [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/pdf/2003.08271.pdf) | Xipeng Qiu, Tianxiang Sun, Yige Xu, Yunfan Shao, Ning Dai & Xuanjing Huang
 
-    
+- Datasets
+    + Natural Language Inference
+        * [(SNLI) A large annotated corpus for learning natural language inference](https://arxiv.org/abs/1508.05326)
+        * [(MultiNLI) A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference](https://arxiv.org/abs/1704.05426)
+        * [(Question NLI) GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding](https://arxiv.org/abs/1804.07461)
+        * [(RTE) The Fifth PASCAL Recognizing Textual Entailment Challenge](https://cris.fbk.eu/handle/11582/5351)
+        * [SciTaiL: A Textual Entailment Dataset from Science Question Answering](https://ojs.aaai.org/index.php/AAAI/article/view/12022)
+    + Question Answering
+        * [RACE: Large-scale ReAding Comprehension Dataset From Examinations](https://arxiv.org/abs/1704.04683)
+        * [(Story cloze) LSDSem 2017 Shared Task: The Story Cloze Test](https://aclanthology.org/W17-0906/)
+    + Sentence Similarity
+        * [(MSR Paraphrase Corpus) Automatically Constructing a Corpus of Sentential Paraphrases](https://aclanthology.org/I05-5002/)
+        * [Quora Question Pair](https://quoradata.quora.com/First-Quora-Dataset-Release-Question-Pairs)
+        + [(STS BenchMark) SemEval-2017 Task 1: Semantic Textual Similarity - Multilingual and Cross-lingual Focused Evaluation](https://arxiv.org/abs/1708.00055)
+    + Classification
+        * [(Stanford Sentiment Treebank-2) Recursive deep models for semantic compositionality over a sentiment treebank.](https://aclanthology.org/D13-1170/)
+        * [(CoLA) . Corpus of linguistic acceptability](https://nyu-mll.github.io/CoLA/)
+
 ### Blogs and Articles
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) | Jay Alammar
 - [Attention? Attention!](https://lilianweng.github.io/posts/2018-06-24-attention/) | Lilian Weng
