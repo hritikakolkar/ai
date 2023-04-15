@@ -52,10 +52,6 @@
     + Byte Pair Encoding (SentencePiece and Tiktoken)
     + Unigram Language (Sentencpiece)
 
-- Benchmarks
-    + [Glue](https://gluebenchmark.com/leaderboard/)
-    + [SuperGlue](https://super.gluebenchmark.com/)
-
 - Datasets
     + Natural Language Inference
         * [(SNLI) A large annotated corpus for learning natural language inference](https://arxiv.org/abs/1508.05326)
