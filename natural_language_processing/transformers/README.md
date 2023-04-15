@@ -45,8 +45,7 @@
     + [LARS]()
 
 - Positional Encoders
-    + Absolute Positional Encoders
-    + 
+    + Absolute Positional Encoding
 - Schedulers
 - Tokenizers
     + Byte Pair Encoding (SentencePiece and Tiktoken)
