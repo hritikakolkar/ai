@@ -1,4 +1,4 @@
-### Topics
+### Algorithms
     - Latent Dirichlet Allocation (LDA)
     - Latent Semantic Analysis (LSA)
     - Probabilistic Latent Semantic Analysis (PLSA)
