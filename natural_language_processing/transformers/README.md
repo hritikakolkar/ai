@@ -41,8 +41,8 @@
     + [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/pdf/2003.08271.pdf) | Xipeng Qiu, Tianxiang Sun, Yige Xu, Yunfan Shao, Ning Dai & Xuanjing Huang
 
 - Optimizers
-    + [LAMB]()
-    + [LARS]()
+    + [(LAMB) Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962) | Yang You, Jing Li, Sashank Reddi, Jonathan Hseu, Sanjiv Kumar, Srinadh Bhojanapalli, Xiaodan Song, James Demmel, Kurt Keutzer, Cho-Jui Hsieh
+    + [(LARS) Large Batch Training of Convolutional Networks](https://arxiv.org/abs/1708.03888) | Yang You, Igor Gitman, Boris Ginsburg
 
 - Positional Encoders
     + Absolute Positional Encoding
