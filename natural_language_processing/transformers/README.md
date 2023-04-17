@@ -51,7 +51,7 @@
 - Schedulers
 - Tokenizers
     + Byte Pair Encoding (SentencePiece and Tiktoken)
-    + Unigram Language (Sentencpiece)
+    + WordPiece
 
 - Datasets
     + Natural Language Inference
