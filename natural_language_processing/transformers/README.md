@@ -37,8 +37,10 @@
     + [(PET) Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference](https://arxiv.org/pdf/2001.07676v3.pdf) | Timo Schick, Hinrich Schütze
 
 - Surveys
+    + [A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2302.01107) | Bohan Zhuang, Jing Liu, Zizheng Pan, Haoyu He, Yuetian Weng, Chunhua Shen
     + [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223) | Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen
     + [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/pdf/2003.08271.pdf) | Xipeng Qiu, Tianxiang Sun, Yige Xu, Yunfan Shao, Ning Dai & Xuanjing Huang
+    + [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732) | Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler
 
 - Optimizers
     + [(LAMB) Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962) | Yang You, Jing Li, Sashank Reddi, Jonathan Hseu, Sanjiv Kumar, Srinadh Bhojanapalli, Xiaodan Song, James Demmel, Kurt Keutzer, Cho-Jui Hsieh
