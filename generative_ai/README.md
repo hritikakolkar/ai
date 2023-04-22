@@ -25,7 +25,7 @@
 - Boundary Equilibrium GAN (BEGAN)
 - Least Squares GAN (LSGAN)
 - Semi-Supervised Learning Generative
-Adversarial Network (SSGAN)
+- Adversarial Network (SSGAN)
 - Auxiliary Classifier GAN (ACGAN)
 - Conditional GAN (CGAN)
 - Wasserstein GAN (WGAN)

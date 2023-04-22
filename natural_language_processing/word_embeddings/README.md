@@ -7,8 +7,6 @@
 - [(word2vec) Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) | Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean
 - [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf) | Jeffrey Pennington, Richard Socher, Christopher D. Manning
 - [(fastText) Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606) | Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas Mikolov
-- [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759) | Armand Joulin, Edouard Grave, Piotr Bojanowski, Tomas Mikolov
-- [(ULMFiT) Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) | Jeremy Howard, Sebastian Ruder
 - [(ElMo) Deep contextualized word representations](https://arxiv.org/abs/1802.05365) | Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer
 - [(CoVe) Learned in Translation: Contextualized Word Vectors](https://arxiv.org/abs/1708.00107) | Bryan McCann, James Bradbury, Caiming Xiong, Richard Socher
 - [(USE) Universal Sentence Encoder](https://arxiv.org/abs/1803.11175) | Daniel Cer, Yinfei Yang, Sheng-yi Kong, Nan Hua, Nicole Limtiaco, Rhomni St. John, Noah Constant, Mario Guajardo-Cespedes, Steve Yuan, Chris Tar, Yun-Hsuan Sung, Brian Strope, Ray Kurzweil
