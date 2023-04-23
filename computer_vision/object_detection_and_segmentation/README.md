@@ -16,3 +16,4 @@ License Plate Recognition System Based on Color Coding Of License Plates
     - [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://arxiv.org/abs/2004.10934) | Alexey Bochkovskiy, Chien-Yao Wang, Hong-Yuan Mark Liao
 - [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) | Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C. Berg
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) | Olaf Ronneberger, Philipp Fischer, Thomas Brox
+- [Segment Anything](https://arxiv.org/abs/2304.02643) | Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick
