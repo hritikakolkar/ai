@@ -81,4 +81,5 @@
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) | Jay Alammar
 - [Attention? Attention!](https://lilianweng.github.io/posts/2018-06-24-attention/) | Lilian Weng
 - [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) | harvardnlp
+- [Attention from Scratch](https://e2eml.school/transformers.html) | Brandon Rohrer
 - [Attention Series by Machine Learning Matery](https://machinelearningmastery.com/category/attention/) | Jason Brownlee
