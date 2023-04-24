@@ -34,6 +34,12 @@
 
 #### Research Papers
 - GANs
+- Diffusions
+    + [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239v2.pdf) | Jonathan Ho, Ajay Jain, Pieter Abbeel
+    + [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796) | Ling Yang, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Wentao Zhang, Bin Cui, Ming-Hsuan Yang
+
+- Autoencoders
+- Flow
 ##### MultiModality
 - Images
     - [(CLIP) Contrastive Language–Image Pre-training](https://openai.com/research/clip) | OpenAI
