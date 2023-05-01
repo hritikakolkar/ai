@@ -1,4 +1,5 @@
 ### Projects
+- [Character Level Text Generation using LSTMs](./character_level_lstm_for_text_generation.ipynb)
 - [Gated recurrent neural network architecture implementation in pytorch from scratch](./gated_recurrent_neural_network_architecture_from_scratch_in_pytorch.py)
 - [Long Short Term Memory network architecture implementation in pytorch from scratch](./long_short-term_memory_network_architecture_from_scratch_in_pytorch.py)
 - [Recurrent neural network architecture implementation in pytorch from scratch](./recurrent_nerual_network_architecture_from_scratch_in_pytorch.py)

@@ -1,9 +1,16 @@
+### Projects
+- Nerual Machine Translation using Scaled Dot-Product Attention (transformer architecture).
+- Neural Machine Transltaion using Luong Attention
+- Neural Machine Translation using Bahdanau Attention
+- Sequence to Sequence Machine Translation using Neural Networks
+
 ### Research Papers
 - Early and influential Papers on Attention
     + [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) | Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio
     + [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025) | Minh-Thang Luong, Hieu Pham, Christopher D. Manning
     + [***Attention Is All You Need***](https://arxiv.org/abs/1706.03762) | Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
     + [(ULMFiT) Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) | Jeremy Howard, Sebastian Ruder
+    + [Self-Attention with Relative Position Representations](https://arxiv.org/abs/1803.02155) | Peter Shaw, Jakob Uszkoreit, Ashish Vaswani
 - Bi-Directional Encoder Representation Transformers Architecture
     - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
     - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692) | Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, Veselin Stoyanov
