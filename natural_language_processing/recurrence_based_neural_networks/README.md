@@ -20,6 +20,8 @@
     - [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078v3.pdf) |  Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio
 - Seq2Seq
     - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
+- Others
+    - [Language Modeling with Gated Convolutional Networks](https://arxiv.org/abs/1612.08083) | Yann N. Dauphin, Angela Fan, Michael Auli, David Grangier
 
 ### Blogs and Articles
 - Recurrent Neural Networks
