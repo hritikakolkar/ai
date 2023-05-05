@@ -1,9 +1,9 @@
 #### Projects
-- DeepFaceDrawing: Deep Generation of Face Images from Sketches
+<!-- - DeepFaceDrawing: Deep Generation of Face Images from Sketches
 - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
 - Old Photo Restoration via Deep Latent Space Translation
 - VALL-E Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers
-- Deep Generative Modelling for Neural Compression
+- Deep Generative Modelling for Neural Compression -->
 
 #### Various GANs
 - AttnGAN
