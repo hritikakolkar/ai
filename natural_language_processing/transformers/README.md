@@ -1,5 +1,5 @@
 ### Projects
-- Recognizing Textual Entailment on Customer query and reason for the query (Enterpret.com Assignment)
+- [Recognizing Textual Entailment on Customer query and reason for the query](./recognizing_textual_entailment)
 - Nerual Machine Translation using Scaled Dot-Product Attention (transformer architecture).
 - Neural Machine Transltaion using Luong Attention
 - Neural Machine Translation using Bahdanau Attention
