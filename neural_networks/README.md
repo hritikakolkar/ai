@@ -10,6 +10,10 @@
     - [Learning Internal Representations by error propagation](https://apps.dtic.mil/dtic/tr/fulltext/u2/a164453.pdf) | David E. Ruineihart, Geoffrey E. Hinton, and Ronald J. Williams
 - Hyperparameter Tuning
     - [Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846) | Max Jaderberg et al.
+- Regularization
+    + [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shif](https://arxiv.org/abs/1502.03167) | Sergey Ioffe, Christian Szegedy
+    + [Layer Normalization](https://arxiv.org/abs/1607.06450) | Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton
+    + [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/v15/srivastava14a.html) | Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov
 - Optimizers
     + [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747) | Sebastian Ruder
     - First Order Methods
@@ -26,7 +30,7 @@
 - BackPropagation
     + [Backpropagation paper from scratch](https://towardsdatascience.com/backpropagation-paper-from-scratch-796793789248)
 - Optimizers
-    + [optimization Series by Machine Learning Mastery](https://machinelearningmastery.com/category/optimization/)
+    + [Optimization Series by Machine Learning Mastery](https://machinelearningmastery.com/category/optimization/)
     + [Gradient Descent With RMSProp from Scratch](https://machinelearningmastery.com/gradient-descent-with-rmsprop-from-scratch/)
 
 ### Courses
