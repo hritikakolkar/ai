@@ -6,6 +6,7 @@
 - Deep Generative Modelling for Neural Compression -->
 
 #### Various GANs
+- Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold
 - AttnGAN
 - Generating Artistic Hallucinated Images using DeepDream 
 - Pix2pix GAN
@@ -31,6 +32,7 @@
 
 #### Research Papers
 - GANs
+    + [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://arxiv.org/abs/2305.10973) | Xingang Pan, Ayush Tewari, Thomas Leimkühler, Lingjie Liu, Abhimitra Meka, Christian Theobalt
     + [(BigGAN) Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096) | Andrew Brock, Jeff Donahue, Karen Simonyan
     + [(SAGAN) Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318) | Han Zhang, Ian Goodfellow, Dimitris Metaxas, Augustus Odena
     + [(SRGAN) Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802) | Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi
