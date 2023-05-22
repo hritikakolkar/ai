@@ -18,6 +18,12 @@
 - Face Recognition
     + [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/abs/1503.03832) | Florian Schroff, Dmitry Kalenichenko, James Philbin
     + [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf) | Yaniv Taigman Ming Yang Marc’Aurelio Ranzato Lior Wolf
+- OCR
+    + [TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models](https://arxiv.org/abs/2109.10282) | Minghao Li, Tengchao Lv, Jingye Chen, Lei Cui, Yijuan Lu, Dinei Florencio, Cha Zhang, Zhoujun Li, Furu Wei
+    + [(DONUT) OCR-free Document Understanding Transformer](https://arxiv.org/abs/2111.15664) | Geewook Kim, Teakgyu Hong, Moonbin Yim, Jeongyeon Nam, Jinyoung Park, Jinyeong Yim, Wonseok Hwang, Sangdoo Yun, Dongyoon Han, Seunghyun Park
+    + [CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents](https://arxiv.org/abs/2004.12629) | Devashish Prasad, Ayan Gadpal, Kshitij Kapadni, Manish Visave, Kavita Sultanpure
+    + [TableNet: Deep Learning model for end-to-end Table detection and Tabular data extraction from Scanned Document Images](https://arxiv.org/2001.01469v1) | Shubham Paliwal, Vishwanath D, Rohit Rahul, Monika Sharma, Lovekesh Vig
+    + [DeepText: A Unified Framework for Text Proposal Generation and Text Detection in Natural Images](https://arxiv.org/abs/1605.07314) | Zhuoyao Zhong, Lianwen Jin, Shuye Zhang, Ziyong Feng
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946) | Mingxing Tan, Quoc V. Le
 - [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381) | Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861v1) | Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam
@@ -32,3 +38,7 @@
 - [Learning Deep Features for Discriminative Localization](https://arxiv.org/abs/1512.04150)| Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba.
 
 ### Blogs and Articles
+- OCR
+    - [Deep Learning Based OCR for Text in the Wild](https://nanonets.com/blog/deep-learning-ocr/) | Rahul Agarwal
+    - [How does table extraction work from PDF/Images?](https://www.docsumo.com/blog/pdf-table-extraction) | Amit Timalsina
+    - [Leveraging GPT-4 for PDF Data Extraction: A Comprehensive Guide](https://www.docsumo.com/blog/pdf-reading-with-gpt4) | Manish Sharma
