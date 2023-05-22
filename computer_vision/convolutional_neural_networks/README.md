@@ -22,7 +22,7 @@
 - [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381) | Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861v1) | Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam
 - [(GoogleLeNet Inception) Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842) | Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich
-- - [(DenseNet) Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) | Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger
+- [(DenseNet) Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) | Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger
 - [(NiN) Network in Network](https://arxiv.org/abs/1312.4400) | Min Lin, Qiang Chen, Shuicheng Yan
 - [(ResNeXt) Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431) | Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, Kaiming He
 - [(ResNet) Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) | Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
