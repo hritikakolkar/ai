@@ -1,5 +1,6 @@
 ### Projects
-- EfficientNet
+- [DCNNs on MNIST for Handwritten Digit Recognition](./dcnns-for-handwritten-digit-recognition-pytorch.ipynb)
+<!-- - EfficientNet
 - MobileNetv1 
 - GoogleLeNet Inception
 - Network in Network (NiN)
@@ -7,10 +8,9 @@
 - VGGNet
 - AlexNet
 - LeNet on MNIST for Handwritten Digit Recognition
-- [DCNNs on MNIST for Handwritten Digit Recognition](./dcnns-for-handwritten-digit-recognition-pytorch.ipynb)
 - Captcha Recognition with CNNs
 - Deep Dream
-- Neural style Transfer
+- Neural style Transfer -->
 
 ### Research Papers
 - Neural Style Transfer
