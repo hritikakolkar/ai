@@ -13,6 +13,7 @@
     + [CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents](https://arxiv.org/abs/2004.12629) | Devashish Prasad, Ayan Gadpal, Kshitij Kapadni, Manish Visave, Kavita Sultanpure
     + [TableNet: Deep Learning model for end-to-end Table detection and Tabular data extraction from Scanned Document Images](https://arxiv.org/2001.01469v1) | Shubham Paliwal, Vishwanath D, Rohit Rahul, Monika Sharma, Lovekesh Vig
     + [DeepText: A Unified Framework for Text Proposal Generation and Text Detection in Natural Images](https://arxiv.org/abs/1605.07314) | Zhuoyao Zhong, Lianwen Jin, Shuye Zhang, Ziyong Feng
+    + [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/abs/1912.13318) | Yiheng Xu, Minghao Li, Lei Cui, Shaohan Huang, Furu Wei, Ming Zhou
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946) | Mingxing Tan, Quoc V. Le
 - [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381) | Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861v1) | Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam
