@@ -14,6 +14,11 @@
 
 - Text Recognition
     + [UTRNet: High-Resolution Urdu Text Recognition In Printed Documents | 2023](https://arxiv.org/abs/2306.15782) | Abdur Rahman, Arjun Ghosh, Chetan Arora
+    + [SVTR: Scene Text Recognition with a Single Visual Model | 2022](https://arxiv.org/abs/2205.00159) | Yongkun Du, Zhineng Chen, Caiyan Jia, Xiaoting Yin, Tianlun Zheng, Chenxia Li, Yuning Du, Yu-Gang Jiang
+    + [(ABINEt++) ABINet++: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Spotting](https://arxiv.org/abs/2211.10578) | Shancheng Fang, Zhendong Mao, Hongtao Xie, Yuxin Wang, Chenggang Yan, Yongdong Zhang
+    + [(ABINet) Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition](https://arxiv.org/abs/2103.06495) | Shancheng Fang, Hongtao Xie, Yuxin Wang, Zhendong Mao, Yongdong Zhang
+    + [Rosetta: Large scale system for text detection and recognition in images | 2019](https://arxiv.org/abs/1910.05085) | Fedor Borisyuk, Albert Gordo, Viswanath Sivakumar
+    + [(CRNN) An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition | 2015](https://arxiv.org/abs/1507.05717) | Baoguang Shi, Xiang Bai, Cong Yao
 
 - Document Understanding
     + [LayoutLM: Pre-training of Text and Layout for Document Image Understanding | 2019](https://arxiv.org/abs/1912.13318) | Yiheng Xu, Minghao Li, Lei Cui, Shaohan Huang, Furu Wei, Ming Zhou
@@ -36,3 +41,6 @@
     |[DocBank: A Benchmark Dataset for Document Layout Analysis](https://arxiv.org/abs/2006.01038)||English|2020| Layout |
     |[TableBank: A Benchmark Dataset for Table Detection and Recognition](https://arxiv.org/abs/1903.01949)||English|2019|Table|
     |[(PubTabNet) Image-based table recognition: data, model, and evaluation](https://arxiv.org/abs/1911.10683)|||2019|Table|
+
++ Synthetic Data Generation
+    + [Text Recognition Data Generator](https://github.com/Belval/TextRecognitionDataGenerator)
