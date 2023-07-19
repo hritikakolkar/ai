@@ -28,9 +28,12 @@
 - Backbone
     + [DiT: Self-supervised Pre-training for Document Image Transformer | 2022](https://arxiv.org/abs/2203.02378) | Junlong Li, Yiheng Xu, Tengchao Lv, Lei Cui, Cha Zhang, Furu Wei
     + [(oCLIP) Language Matters: A Weakly Supervised Vision-Language Pre-training Approach for Scene Text Detection and Spotting | 2022](https://arxiv.org/abs/2203.03911) | Chuhui Xue, Wenqing Zhang, Yu Hao, Shijian Lu, Philip Torr, Song Bai
+
 - Table Analysis
-    + [CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents](https://arxiv.org/abs/2004.12629) | Devashish Prasad, Ayan Gadpal, Kshitij Kapadni, Manish Visave, Kavita Sultanpure
-    + [TableNet: Deep Learning model for end-to-end Table detection and Tabular data extraction from Scanned Document Images](https://arxiv.org/2001.01469v1) | Shubham Paliwal, Vishwanath D, Rohit Rahul, Monika Sharma, Lovekesh Vig
+    + [(MTL-TabNet) An End-to-End Multi-Task Learning Model for Image-based Table Recognition | 2023](https://arxiv.org/abs/2303.08648) | Nam Tuan Ly, Atsuhiro Takasu
+    + [(TableMaster) PINGAN-VCGROUP’S SOLUTION FOR ICDAR 2021 COMPETITION ON SCIENTIFIC LITERATURE PARSING TASK B: TABLE RECOGNITION TO HTML | 2021](https://arxiv.org/abs/2105.01848) | Jiaquan Ye, Xianbiao Qi, Yelin He, Yihao Chen, Dengyi Gu, Peng Gao, Rong Xiao
+    + [CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents | 2020](https://arxiv.org/abs/2004.12629) | Devashish Prasad, Ayan Gadpal, Kshitij Kapadni, Manish Visave, Kavita Sultanpure
+    + [TableNet: Deep Learning model for end-to-end Table detection and Tabular data extraction from Scanned Document Images | 2020](https://arxiv.org/abs/2001.01469) | Shubham Paliwal, Vishwanath D, Rohit Rahul, Monika Sharma, Lovekesh Vig
 
 + Datasets
     |Paper| Abstract | Language | Date | Usage|
