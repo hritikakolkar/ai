@@ -66,6 +66,14 @@
     + [Adversarial Autoencoders](https://arxiv.org/abs/1511.05644) | Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, Brendan Frey
     + [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) | Diederik P Kingma, Max Welling
     + [Reducing the Dimensionality of Data with Neural Networks]() | G. E. Hinton, R. R. Salakhutdinov
+
+- Boltzmann Machines
+    + [Boltzmann Machines]()
+    + [Restricted Boltzmann Machines]()
+    + [Deep Belief Networks]()
+    + [Deep Boltzmann Machines]()
+    + [Convolutional Boltzmann Machines]()
+
 - Flow
 ##### MultiModality
 - Images
