@@ -24,14 +24,18 @@
         + [(NAG) Nesterov's Accelerated Gradient and Momentum as approximations to Regularised Update Descent](https://arxiv.org/abs/1607.01981) | Aleksandar Botev, Guy Lever, David Barber
         + [On the importance of initialization and momentum in deep learning](http://proceedings.mlr.press/v28/sutskever13.pdf) | Ilya Sutskever, James Martens, George Dahl, Geoffrey Hinton
         + [(NADAM) Incorporating Nesterov Momentum into Adam](https://openreview.net/forum?id=OM0jvwB8jIp57ZJjtNEZ) | Timothy Dozat
+
 - Schedulers
     + [A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://arxiv.org/abs/1803.09820) | Leslie N. Smith
+
 ### Blogs and Articles
 - BackPropagation
     + [Backpropagation paper from scratch](https://towardsdatascience.com/backpropagation-paper-from-scratch-796793789248)
 - Optimizers
     + [Optimization Series by Machine Learning Mastery](https://machinelearningmastery.com/category/optimization/)
     + [Gradient Descent With RMSProp from Scratch](https://machinelearningmastery.com/gradient-descent-with-rmsprop-from-scratch/)
+- Schedulers
+    + [A Visual Guide to Learning Rate Schedulers in PyTorch](https://towardsdatascience.com/a-visual-guide-to-learning-rate-schedulers-in-pytorch-24bbb262c863)
 
 ### Courses
 - [Introduction to Neural Networks and Machine Learning (University of Toronto)](https://www.cs.toronto.edu/~tijmen/csc321/lecture_notes.shtml) | Geoffrey Hinton
