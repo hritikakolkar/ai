@@ -61,7 +61,7 @@
     + [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/pdf/2003.08271.pdf) | Xipeng Qiu, Tianxiang Sun, Yige Xu, Yunfan Shao, Ning Dai & Xuanjing Huang
     + [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732) | Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler
     + [A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks](https://arxiv.org/abs/2306.07303) | Saidul Islam, Hanae Elmekki, Ahmed Elsebai, Jamal Bentahar, Najat Drawel, Gaith Rjoub, Witold Pedrycz
-    
+
 - Optimizers
     + [(LAMB) Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962) | Yang You, Jing Li, Sashank Reddi, Jonathan Hseu, Sanjiv Kumar, Srinadh Bhojanapalli, Xiaodan Song, James Demmel, Kurt Keutzer, Cho-Jui Hsieh
     + [(LARS) Large Batch Training of Convolutional Networks](https://arxiv.org/abs/1708.03888) | Yang You, Igor Gitman, Boris Ginsburg
@@ -69,11 +69,16 @@
 - Positional Encoders
     + Absolute Positional Encoding
     + Relative Positional Encoding
+        - [Self-Attention with Relative Position Representations | 2018](https://arxiv.org/abs/1803.02155) | Peter Shaw, Jakob Uszkoreit, Ashish Vaswani
+        - [Position Information in Transformers: An Overview](https://direct.mit.edu/coli/article/48/3/733/111478/Position-Information-in-Transformers-An-Overview)
 
 - Tokenizers
     + Byte Pair Encoding (SentencePiece and Tiktoken)
     + WordPiece
 
+- Applications
+    + NER
+        * [UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition](https://arxiv.org/abs/2308.03279) | Wenxuan Zhou, Sheng Zhang, Yu Gu, Muhao Chen, Hoifung Poon
 - Datasets
     + Natural Language Inference
         * [(SNLI) A large annotated corpus for learning natural language inference](https://arxiv.org/abs/1508.05326)
