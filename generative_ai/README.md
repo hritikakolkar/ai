@@ -54,8 +54,8 @@
     + [(LAPGAN) Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks](https://arxiv.org/abs/1506.05751) | Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus 
     + [(CGAN) Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) | Mehdi Mirza, Simon Osindero
     + [(GAN) Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) | Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
-    + 
-- Diffusions
+    
+- Diffusers
     + [Structure and Content-Guided Video Synthesis with Diffusion Models](https://arxiv.org/abs/2302.03011) | Patrick Esser, Johnathan Chiu, Parmida Atighehchian, Jonathan Granskog, Anastasis Germanidis
     + [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) | Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer
     + [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239v2.pdf) | Jonathan Ho, Ajay Jain, Pieter Abbeel
@@ -65,7 +65,7 @@
     + [Stacked Capsule Autoencoders](https://arxiv.org/abs/1906.06818) | Adam R. Kosiorek, Sara Sabour, Yee Whye Teh, Geoffrey E. Hinton
     + [Adversarial Autoencoders](https://arxiv.org/abs/1511.05644) | Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, Brendan Frey
     + [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) | Diederik P Kingma, Max Welling
-    + [Reducing the Dimensionality of Data with Neural Networks]() | G. E. Hinton, R. R. Salakhutdinov
+    + [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/absps/science.pdf) | G. E. Hinton, R. R. Salakhutdinov
 
 - Boltzmann Machines
     + [Boltzmann Machines]()
