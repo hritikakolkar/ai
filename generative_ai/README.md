@@ -86,7 +86,7 @@
     - [MusicLM: Generating Music From Text](https://arxiv.org/abs/2301.11325) | Andrea Agostinelli, Timo I. Denk, Zalán Borsos, Jesse Engel, Mauro Verzetti, Antoine Caillon, Qingqing Huang, Aren Jansen, Adam Roberts, Marco Tagliasacchi, Matt Sharifi, Neil Zeghidour, Christian Frank
     - [Jukebox: A Generative Model for Music](https://arxiv.org/abs/2005.00341)
 - Videos
-    - Gen-1 
+    - [(Gen-1) Structure and Content-Guided Video Synthesis with Diffusion Models](https://research.runwayml.com/gen1)
     - [(Gen-2) Structure and Content-Guided Video Synthesis with Diffusion Models](https://research.runwayml.com/gen2)
     - [Text2LIVE: Text-Driven Layered Image and Video Editing](https://text2live.github.io/) | Omer Bar-Tal, Dolev Ofri-Amar, Rafail Fridman, Yoni Kasten, Tali Dekel
 
