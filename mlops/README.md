@@ -13,3 +13,6 @@
 - Wandb
     + [Pytorch Intergration with Wandb](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch/Simple_PyTorch_Integration.ipynb)
     + [Hyperparameter tuning in pytorch in with wandb sweep](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch/Organizing_Hyperparameter_Sweeps_in_PyTorch_with_W%26B.ipynb)
+
+### System Design
+- [ML system design: A database of 450 case studies from 100+ companies.](https://www.evidentlyai.com/ml-system-design) | EvidentlyAI
