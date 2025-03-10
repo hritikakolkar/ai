@@ -17,3 +17,7 @@
 - ### OCR
     + [olmOCR: Unlocking Trillions of Tokens
 in PDFs with Vision Language Models](https://olmocr.allenai.org/papers/olmocr.pdf)
+
+
+## Blogs & Articles
+- [Understanding Multimodal LLMs](https://magazine.sebastianraschka.com/p/understanding-multimodal-llms) | Sebastian Raschka, PhD
