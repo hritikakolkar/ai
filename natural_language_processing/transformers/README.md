@@ -103,3 +103,4 @@
 - [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) | harvardnlp
 - [Attention from Scratch](https://e2eml.school/transformers.html) | Brandon Rohrer
 - [Attention Series by Machine Learning Matery](https://machinelearningmastery.com/category/attention/) | Jason Brownlee
+- [Decoder-Only Transformers: The Workhorse of Generative LLMs](https://cameronrwolfe.substack.com/p/decoder-only-transformers-the-workhorse?utm_source=substack&utm_medium=email)
