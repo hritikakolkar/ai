@@ -24,6 +24,7 @@
     + [LayoutLM: Pre-training of Text and Layout for Document Image Understanding | 2019](https://arxiv.org/abs/1912.13318) | Yiheng Xu, Minghao Li, Lei Cui, Shaohan Huang, Furu Wei, Ming Zhou
     + [TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models | 2021](https://arxiv.org/abs/2109.10282) | Minghao Li, Tengchao Lv, Jingye Chen, Lei Cui, Yijuan Lu, Dinei Florencio, Cha Zhang, Zhoujun Li, Furu Wei
     + [(DONUT) OCR-free Document Understanding Transformer | 2021](https://arxiv.org/abs/2111.15664) | Geewook Kim, Teakgyu Hong, Moonbin Yim, Jeongyeon Nam, Jinyoung Park, Jinyeong Yim, Wonseok Hwang, Sangdoo Yun, Dongyoon Han, Seunghyun Park
+    + [olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language Models](https://arxiv.org/pdf/2502.18443)
 
 - Backbone
     + [DiT: Self-supervised Pre-training for Document Image Transformer | 2022](https://arxiv.org/abs/2203.02378) | Junlong Li, Yiheng Xu, Tengchao Lv, Lei Cui, Cha Zhang, Furu Wei
