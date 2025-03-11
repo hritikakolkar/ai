@@ -21,7 +21,7 @@
     - [DeBERTaV3: Improving DeBERTa using ELECTRA-Style Pre-Training with Gradient-Disentangled Embedding Sharing]() | Pengcheng He, Jianfeng Gao, Weizhu Chen
     - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) | Zhenzhong Lan, Mingda Chen, Sebastian Goodman, Kevin Gimpel, Piyush Sharma, Radu Soricut
     - [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555) | Kevin Clark, Minh-Thang Luong, Quoc V. Le, Christopher D. Manning
-
+    - [EuroBERT: Scaling Multilingual Encoders for European Languages](https://arxiv.org/abs/2503.05500) | Nicolas Boizard, Hippolyte Gisserot-Boukhlef, Duarte M. Alves
 - Generative Pre-Training Transformers
     + [(GPT) Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) | Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever
     + [(GPT-2) Language Models are Unsupervised Multitask Learners](https://github.com/openai/gpt-2) | Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever
