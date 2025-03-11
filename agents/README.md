@@ -5,6 +5,11 @@
 - ## Model Context Protocol (MCP)
 
 # Frameworks and Softwares
-- [Autogen](https://microsoft.github.io/autogen/stable/)
-- [MetaGPT](https://github.com/geekan/MetaGPT)
-- [OpenManus](https://github.com/mannaandpoem/OpenManus)
+- ## Free
+  - [Autogen](https://microsoft.github.io/autogen/stable/)
+  - [MetaGPT](https://github.com/geekan/MetaGPT)
+  - [Agno](https://github.com/agno-agi/agno)
+  - [OpenManus](https://github.com/mannaandpoem/OpenManus)
+- ## Paid
+  - [CrewAI](https://www.crewai.com/)
+  -   
