@@ -7,7 +7,7 @@
     
   - Embeddings
     - [MMTEB: Massive Multilingual Text Embedding Benchmark (Feb 2025)](https://arxiv.org/pdf/2502.13595) | Kenneth Enevoldsen Et al.
-    - [(Hypothetical Document Embeddings (HyDE)) Precise Zero-Shot Dense Retrieval without Relevance Labels (2022)](https://arxiv.org/abs/2212.10496) | Luyu Gao, Xueguang Ma, Jimmy Lin, Jamie Callan
+    - [(Hypothetical Document Embeddings (HyDE)) Precise Zero-Shot Dense Retrieval without Relevance Labels (Dec 2022)](https://arxiv.org/abs/2212.10496) | Luyu Gao, Xueguang Ma, Jimmy Lin, Jamie Callan
 ## Retrieval
 ## Generation
 
