@@ -1,5 +1,5 @@
 # RAG
-- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2020)](https://arxiv.org/abs/2005.11401v4) | Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, Douwe Kiela
+- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (May 2020, April 2021)](https://arxiv.org/abs/2005.11401v4) | Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, Douwe Kiela
 - [Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs (Dec 2023, Jan 2024)](https://arxiv.org/abs/2312.05934) | Oded Ovadia, Menachem Brief, Moshik Mishaeli, Oren Elisha
 - [RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture (Jan 2024)](https://arxiv.org/abs/2401.08406) | Angels Balaguer, Vinamra Benara,  Et al.
 ## Ingestion
